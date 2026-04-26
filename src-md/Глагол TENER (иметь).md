@@ -4,7 +4,7 @@
 
 ---
 
-## 🔹 Сопряжение глагола **TENER** в Presente
+## 🔹 Спряжение глагола **TENER** в Presente
 
 | Лицо | Форма | Пример |
 |------|-------|--------|
@@ -15,8 +15,8 @@
 | **vosotros/as** | **tenéis** | *¿Tenéis hambre?* |
 | **ellos/ellas/ustedes** | **tienen** | *Ellos tienen suerte.* |
 
-> ⚠️ **Обрати внимание**:  
-> - В форме **yo** появляется **-g-**: *tengo* (не ~~teno~~)  
+> ⚠️ **Обрати внимание**:
+> - В форме **yo** появляется **-g-**: *tengo* (не ~~teno~~)
 > - В формах **tú/él/ella/usted** меняется корень: **e → ie**: *tienes, tiene*
 
 ---
@@ -33,8 +33,8 @@
 | **tener frío / calor** | иметь холод / жару | мёрзнуть / испытывать жару | *Tengo frío, cierra la ventana.* 🥶 / *¡Tengo calor! Vamos a la playa.* 🏖️ |
 | **tener prisa** | иметь спешку | торопиться | *Perdona, tengo prisa.* ⏰ |
 
-> 📌 **Грамматическая заметка**:  
-> Слова *el hambre* и *la sed* — женского рода, но *hambre* в единственном числе берёт артикль **el** для благозвучия:  
+> 📌 **Грамматическая заметка**:
+> Слова *el hambre* и *la sed* — женского рода, но *hambre* в единственном числе берёт артикль **el** для благозвучия:
 > ✅ *el hambre*, но ✅ *la hambre terrible*; ✅ *tengo mucha hambre*
 
 ---
@@ -97,9 +97,9 @@
 
 ## 🔹 Практическое упражнение: Согласие / Несогласие ✅❌
 
-> **Задание**: Ответьте на утверждения, используя:  
-> - ✅ *Sí, tienes razón / Estoy de acuerdo contigo*  
-> - ❌ *No, no tienes razón / No estoy de acuerdo contigo*  
+> **Задание**: Ответьте на утверждения, используя:
+> - ✅ *Sí, tienes razón / Estoy de acuerdo contigo*
+> - ❌ *No, no tienes razón / No estoy de acuerdo contigo*
 > Добавьте краткое пояснение на испанском.
 
 | № | Утверждение | Пример ответа |
@@ -116,8 +116,8 @@
 | 10 | *Hablas bien el inglés.* | ✅ *¡Gracias! Sí, tengo suerte de haberlo estudiado.* 🇬🇧 |
 | 11 | *Tu día de cumpleaños es en abril.* | ❌ *No tienes razón. Mi cumpleaños es en julio.* 🎉 |
 
-> 💡 **Совет**: Меняйте местоимения в зависимости от собеседника:  
-> - Другу: *¿Tienes...? → Sí, **tengo**... / No, no **tengo**...*  
+> 💡 **Совет**: Меняйте местоимения в зависимости от собеседника:
+> - Другу: *¿Tienes...? → Sí, **tengo**... / No, no **tengo**...*
 > - Старшему/формально: *¿Tiene usted...? → Sí, **tengo**... / No, no **tengo**...*
 
 ---
@@ -136,21 +136,21 @@
 
 ## 🔹 Культурные заметки 🌍
 
-✅ **Испания**:  
-- Фраза *¡Qué hambre!* или *¡Qué sed!* — эмоциональное усиление, очень распространено.  
+✅ **Испания**:
+- Фраза *¡Qué hambre!* или *¡Qué sed!* — эмоциональное усиление, очень распространено.
 - *Tener ganas* — ключевая фраза для выражения желания: *¿Tienes ganas de salir?* (Хочешь выйти?)
 
-✅ **Латинская Америка**:  
-- В Мексике часто говорят *tener hambre de...* в переносном смысле: *Tengo hambre de éxito* (Жажду успеха).  
+✅ **Латинская Америка**:
+- В Мексике часто говорят *tener hambre de...* в переносном смысле: *Tengo hambre de éxito* (Жажду успеха).
 - В Аргентине *tener frío* могут заменить на *tener fresco* в неформальной речи.
 
-✅ **Вежливость**:  
-- Если хотите звучать мягче, добавьте *un poco*: *Tengo un poco de sueño* (Я немного хочу спать).  
+✅ **Вежливость**:
+- Если хотите звучать мягче, добавьте *un poco*: *Tengo un poco de sueño* (Я немного хочу спать).
 - *Disculpe, tengo prisa* — вежливый способ завершить разговор.
 
 ---
 
-> 📌 **Главный совет**:  
+> 📌 **Главный совет**:
 > Выучите выражения с **tener** как «готовые блоки» — так вы будете говорить естественнее и быстрее. Повторяйте их в контексте: *Tengo hambre → Voy a cocinar*, *Tengo prisa → Hablo rápido*.
 
 ---
@@ -176,8 +176,8 @@
 | **¿Tiene usted ganas de ver la tele?** | **У Вас есть желание посмотреть телевизор?** | Формальное обращение *usted*; *tener ganas de + inf.* |
 | **Tener ganas de + Infinitivo** *(tener muchas ganas)* | **Иметь желание сделать что-либо** *(очень хотеть)* | Словарная форма для запоминания |
 
-> 🎯 **Бонус-примеры**:  
-> - *Tengo muchas ganas de verte.* — Я очень хочу тебя увидеть.  
+> 🎯 **Бонус-примеры**:
+> - *Tengo muchas ganas de verte.* — Я очень хочу тебя увидеть.
 > - *¿Tienes ganas de comer?* — Тебе хочется есть?
 
 ---
@@ -205,8 +205,8 @@
 | **Tener miedo (de/a una cosa, una persona)** — бояться *(чего-то, кого-то)*, досл. «иметь страх» | — | Словарная форма: предлоги *de* или *a* возможны |
 | **¿Tienes miedo de estar solo?** | Ты боишься остаться один? | — |
 
-> 🎯 **Бонус-примеры**:  
-> - *Tengo miedo a las alturas.* — Я боюсь высоты.  
+> 🎯 **Бонус-примеры**:
+> - *Tengo miedo a las alturas.* — Я боюсь высоты.
 > - *No tengas miedo, estoy contigo.* — Не бойся, я с тобой.
 
 ---
@@ -269,7 +269,7 @@
 
 ### ✅ Порядок слов и отрицание
 ```
-✅ No tengo ganas.  
+✅ No tengo ganas.
 ❌ ~~Tengo no ganas.~~
 ```
 > Отрицание **no** всегда ставится **перед глаголом**.
@@ -284,8 +284,8 @@
 
 ### ✅ Усиление: mucho / mucha
 > Ставится **перед** существительным и согласуется с ним в роде:
-> - *mucha hambre* (hambre — ж.р. по смыслу)  
-> - *mucha sed*, *mucha suerte*, *mucha razón*  
+> - *mucha hambre* (hambre — ж.р. по смыслу)
+> - *mucha sed*, *mucha suerte*, *mucha razón*
 > - *mucho sueño*, *mucho frío*, *mucho calor*, *mucho miedo*
 
 ### ✅ Формальность: tú ↔ usted

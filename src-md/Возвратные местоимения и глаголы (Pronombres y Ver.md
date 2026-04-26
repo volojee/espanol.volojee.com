@@ -16,7 +16,7 @@
 | **vosotros/as** | **os** | ос | *Vosotros **os** vestís.* | Вы одеваетесь. |
 | **ellos/ellas/ustedes** | **se** | се | *Ellos **se** acuestan.* | Они ложатся спать. |
 
-> ⚠️ **Важно**: Местоимение ставится **перед спрягаемым глаголом**:  
+> ⚠️ **Важно**: Местоимение ставится **перед спрягаемым глаголом**:
 > *Yo **me** lavo* ✅ | *~~Yo lavo me~~* ❌
 
 ---
@@ -34,7 +34,7 @@
 | **ducharse** | принимать душ | *Me ducho por la mañana.* | ме ДУ-чо пор ла ма-НЬЯ-на |
 | **vestirse** (e→i) | одеваться | *Me visto rápido.* | ме ВИС-то РРА-пи-до |
 | **peinarse** | причёсываться | *Me peino delante del espejo.* | ме ПЭЙ-но де-ЛАН-те дэль эс-ПЭ-хо |
-| **maquillarse** | краситься | *Me maquillo para la fiesta.* | ма-КЬИ-йо П́А-ра ла фь-ЭС-та |
+| **maquillarse** | краситься | *Me maquillo para la fiesta.* | ме ма-КЬИ-йо П́А-ра ла фь-ЭС-та |
 
 ### 🌙 Вечерняя рутина
 
@@ -47,10 +47,10 @@
 | **relajarse** | расслабляться | *Se relaja con música.* | се ре-ла-Х́А кон М́У-си-ка |
 | **dormirse** (o→ue) | засыпать | *Se duerme en el sofá.* | се ДУ-ЭР-ме эн эль со-Ф́А |
 
-> 💡 **Запомните**: Некоторые глаголы меняют корень при спряжении:  
-> - *despert**a**rse* → *me desp**ie**rto* (e→ie)  
-> - *vest**i**rse* → *me v**i**sto* (e→i)  
-> - *acost**a**rse* → *me acu**ue**sto* (o→ue)
+> 💡 **Запомните**: Некоторые глаголы меняют корень при спряжении:
+> - *desp**e**rtarse* → *me desp**ie**rto* (e→ie)
+> - *v**e**stirse* → *me v**i**sto* (e→i)
+> - *ac**o**starse* → *me ac**ue**sto* (o→ue)
 
 ---
 
@@ -108,8 +108,8 @@
 | **Me llama / Te llamas / Se llama** | Меня зовут / Тебя зовут / Его зовут | ме Й́А-ма / те Й́А-мас / се Й́А-ма |
 | **¿Nos llama? / ¿Os llama? / ¿Se llama?** | Он нам звонит? / Он вам звонит? (Исп.) / Он им звонит? | нос Й́А-ма / ос Й́А-ма / се Й́А-ма |
 
-> 💡 **Важно**: Глагол *llamar* без *-se* = звонить кому-то; *llamarse* = называться:  
-> - *Me llama por teléfono.* — Он звонит мне по телефону.  
+> 💡 **Важно**: Глагол *llamar* без *-se* = звонить кому-то; *llamarse* = называться:
+> - *Me llama por teléfono.* — Он звонит мне по телефону.
 > - *Me llamo María.* — Меня зовут Мария.
 
 ---
@@ -161,8 +161,8 @@ Está vistiéndose.    ✅ = Se está vistiendo.
 | **o → ue** | **acostarse** (ложиться) | *me acuesto* | *se acuesta* |
 | **o → ue** | **dormirse** (засыпать) | *me duermo* | *se duerme* |
 
-> 💡 **Запомните**: В формах *nosotros* и *vosotros* корень **не меняется**:  
-> *Nosotros nos despertamos* ✅ | *~~Nosotros nos despertamos~~* ❌
+> 💡 **Запомните**: В формах *nosotros* и *vosotros* корень **не меняется**:
+> *Nosotros nos despertamos* ✅ | *~~Nosotros nos despiertamos~~* ❌
 
 ---
 
@@ -218,21 +218,21 @@ Está vistiéndose.    ✅ = Se está vistiendo.
 | **cansarse** | уставать | *Me canso rápido.* |
 | **divertirse** (e→ie) | развлекаться | *Nos divertimos mucho.* |
 | **enfadarse** | злиться | *Se enfada por nada.* |
-| **equivoсarse** | ошибаться | *Me equivoqué de número.* |
+| **equivocarse** | ошибаться | *Me equivoqué de número.* |
 | **irse** | уходить | *Me voy ahora.* |
 | **quejarse** | жаловаться | *Se queja del trabajo.* |
 | **sentirse** (e→ie) | чувствовать себя | *Me siento feliz.* |
 | **volverse** (o→ue) | становиться (изменение) | *Se volvió loco.* |
 
-> 💡 **Sentarse ≠ Sentirse**:  
-> - *Sentarse* = садиться (физическое действие)  
+> 💡 **Sentarse ≠ Sentirse**:
+> - *Sentarse* = садиться (физическое действие)
 > - *Sentirse* = чувствовать себя (эмоция/состояние)
 
 ---
 
-> 📌 **Главный совет**:  
-> 1️⃣ Запомните местоимения: *me, te, se, nos, os, se* — они всегда сопровождают возвратный глагол  
-> 2️⃣ Ставьте местоимение **перед глаголом**: *Me lavo*, не *~~Lavo me~~*  
-> 3️⃣ Учите глаголы с изменениями корня как отдельные формы: *despertarse → me despierto*  
-> 4️⃣ Практикуйте в контексте: опишите свой утренний ритуал на испанском!  
+> 📌 **Главный совет**:
+> 1️⃣ Запомните местоимения: *me, te, se, nos, os, se* — они всегда сопровождают возвратный глагол
+> 2️⃣ Ставьте местоимение **перед глаголом**: *Me lavo*, не *~~Lavo me~~*
+> 3️⃣ Учите глаголы с изменениями корня как отдельные формы: *despertarse → me despierto*
+> 4️⃣ Практикуйте в контексте: опишите свой утренний ритуал на испанском!
 > 5️⃣ Не путайте *llamar* (звонить) и *llamarse* (называться)
