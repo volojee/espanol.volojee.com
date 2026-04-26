@@ -123,7 +123,7 @@ def main():
         },
         'plugins': [
             {'search': {'enabled': True}},
-            {'privacy': {'enabled': True}},
+            # {'privacy': {'enabled': True}},
             {'offline': {'enabled': True}}
         ],
         'markdown_extensions': [
